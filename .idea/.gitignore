@@ -1,0 +1,22 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+/.idea/
+/.idea_modules/
+/.idea_run_configs/
+/.gradle/
+/build/
+/out/
+/.gradle/caches/
+$PROJECT_DIR$
+ai_train_self_study.iml
+misc.xml
+modules.xml
+qaplug_profiles.xml
+vcs.xml
+workspace.xml
