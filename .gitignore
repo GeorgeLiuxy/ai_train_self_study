@@ -14,7 +14,7 @@
 /out/
 /.gradle/caches/
 $PROJECT_DIR$
-ai_train_self_study.iml
+.idea/ai_train_self_study.iml
 misc.xml
 modules.xml
 qaplug_profiles.xml
